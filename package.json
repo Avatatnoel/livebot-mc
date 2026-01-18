@@ -1,0 +1,14 @@
+{
+  "name": "livebot-mc",
+  "version": "1.0.0",
+  "description": "Bot live server aternos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  },
+  "author": "jpini.dev",
+  "license": "ISC"
+}
